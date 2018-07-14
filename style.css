@@ -1,0 +1,26 @@
+body{
+  background-image: url("ass/background.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  /* font-family: 'IM Fell English SC', serif; */
+;
+
+}
+h1{
+  /* font-family: 'IM Fell English SC', serif; */
+ ;
+  text-align: center;
+
+}
+
+.card{
+  opacity: .8 ;
+}
+.card-body{
+  text-align: center;
+}
+img{
+  height: 120px;
+  align-items: left;
+
+}
